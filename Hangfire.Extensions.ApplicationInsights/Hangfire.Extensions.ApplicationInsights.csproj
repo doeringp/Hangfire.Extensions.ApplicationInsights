@@ -3,11 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/coolhome/Hangfire.Extensions.ApplicationInsights</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/coolhome/Hangfire.Extensions.ApplicationInsights</PackageProjectUrl>
-    <VersionPrefix>1.1.0</VersionPrefix>
-    <VersionSuffix>alpha1</VersionSuffix>
+    <RepositoryUrl>https://github.com/doeringp/Hangfire.Extensions.ApplicationInsights</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/doeringp/Hangfire.Extensions.ApplicationInsights</PackageProjectUrl>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix></VersionSuffix>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageId>Doering.$(AssemblyName)</PackageId>
+    <Authors>coolhome,doeringp</Authors>
   </PropertyGroup>
 
   <ItemGroup>
